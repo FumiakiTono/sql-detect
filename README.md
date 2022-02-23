@@ -1,2 +1,10 @@
 # sql-detect
-githubの対象リポジトリに追加されたSQLを検知して通知する
+This is a program to inspect added sql on github pull request and send message to chatwork.
+
+## Install
+
+
+## Usage
+
+
+## How to develop
